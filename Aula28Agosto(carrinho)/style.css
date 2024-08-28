@@ -1,0 +1,40 @@
+p, h1, h2, h3, time, summary, footer, li{
+    display: flex;
+    color: rgb(46, 221, 157);
+    text-decoration: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+
+.nomeMarca{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.horarios{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+}
+.carrinho{
+    display: flex;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+
+
+.produtos{
+    display: flex;
+    color: rgb(0, 0, 0);
+    justify-content: space-between;
+    justify-items: center;
+    align-items:center;
+}
+
+
